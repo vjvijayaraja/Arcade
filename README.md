@@ -12,8 +12,6 @@ An arcade of various games coded in Python and Java. These include:
 ## Table of Contents
 * [General Info](#general-information)
 * [Features](#features)
-* [Setup](#setup)
-* [Usage](#usage)
 * [Credits](#credits)
 
 
